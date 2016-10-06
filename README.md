@@ -260,7 +260,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Sensus](http://sensus.com/careers/) | Boise, ID; Morrisville, NC |
 | [SheerID](http://www.sheerid.com/jobs-at-sheerid/) | Eugene, OR |
 | [ShopCo](https://jobs.lever.co/shopco) | San Francisco, CA |
-| [Shopify](https://www.shopify.com/careers) | Ottawa, ON; Remote; Toronto, ON |
+| [Shopify](https://www.shopify.com/careers) | Montreal, QC; Ottawa, ON; Remote; Toronto, ON; Waterloo, ON |
 | [ShoreTel](https://www.shoretel.com/careers) | Austin, TX; Rochester, NY; Sunnyvale, CA |
 | [Shutterfly](https://www.shutterflyinc.com/careers.html) | Greenville, SC; Redwood City, CA; Tempe, AZ |
 | [Sift Science](https://siftscience.com/jobs) | San Francisco, CA |
